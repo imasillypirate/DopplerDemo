@@ -4,7 +4,8 @@ Python code to visually demonstrate the Doppler effect
 
 The code requires Python 2.7, tkinter, matplotlib, and numpy.
 
-You can also download a .zip file containing a .exe for windows machines from here: https://www.dropbox.com/s/q0a7f1611jhw4y0/DopplerDemo.zip
+You can also download a .zip file containing a .exe for windows machines from here: https://www.dropbox.com/s/cpgleae66rulphh/DopplerDemo.zip
+
 Just unzip it, open the directory, and double click DopplerDemo.exe. As long as your antivirus doesn't freak out, it should launch the program.
 
 
