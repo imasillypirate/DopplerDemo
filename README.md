@@ -16,4 +16,6 @@ The source wave, which is presented in the upper left-hand corner is a sine wave
 
 The observed wave, which is displayed in the upper right-hand corner during the simulation, is determined by counting the number of rings which will pass the observer in the next 5 turns, divided by 5, which is why the timing isn't perfect and it wobbles a bit in some situations. This part isn't perfect, but remember, this is for demonstrations, not for science.
 
+Please feel free to use this code or program in full or in part in whatever capacity you choose with attribution. I'd love to hear how you use it!
+
 Please feel free to email me with questions: imasillypirate@gmail.com
